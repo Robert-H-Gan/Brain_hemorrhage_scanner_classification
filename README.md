@@ -1,4 +1,4 @@
-# Brain_hemorrhage_classification
+# Brain_hemorrhage_scanner_classification
 
 # Summary:
   ## I. Data Exploration
